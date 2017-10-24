@@ -1,0 +1,35 @@
+body {
+	margin: 20%;
+	margin-top: 5%;
+	color: #242424;
+	font-family: 'Raleway', sans-serif;
+}
+section {
+	width: 50%;
+	display: inline-block;
+}
+
+p {
+	text-align: justify;
+	font-size: 20px;
+}
+aside {
+	text-align: center;
+	display: inline-block;
+}
+img {
+	height: 350px;
+	width: 350px;
+}
+table {
+	text-align: center;
+	font-size: 20px;
+	margin-top: 15px;
+	
+}
+table tr:nth-child(3) {
+    background-color: #eee;
+}
+table tr:nth-child(5) {
+    background-color: #eee;
+}
